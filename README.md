@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Nguyen Thanh Duy and I'm a Android Developer, from VietNam</h2>
 
+![](https://komarev.com/ghpvc/?username=NguyenexDuy&color=blue)
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF4Y2Jqcm15c2l5aDdzcGU3amJ4bGF3bDdic3NraGMxYnY0MWc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
