@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Duy</h1>
 <h3 align="center">A adnroid developer from VietNam</h3>
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF4Y2Jqcm15c2l5aDdzcGU3amJ4bGF3bDdic3NraGMxYnY0MWc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF4Y2Jqcm15c2l5aDdzcGU3amJ4bGF3bDdic3NraGMxYnY0MWc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenexduy&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenexduy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenexduy" alt="nguyenexduy" /></a> </p>
